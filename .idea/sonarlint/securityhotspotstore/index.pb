@@ -15,8 +15,6 @@ O
 src/ejercicios/Ejercicio06.java,1\a\1ac758a66042b7b5399f1cdddd76fba71698df98
 O
 src/ejercicios/Ejercicio07.java,8\a\8a3912f86b4f6a9ef0b12b15f27322e82031760e
-O
-src/ejercicios/Ejercicio08.java,1\a\1afa8a77c14e67d912bdf0a2f8fb57cc2c87c130
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
@@ -26,3 +24,29 @@ O
 src/ejercicios/Ejercicio11.java,c\a\cad49298072fd4aa25e0e52edd3846a897c1e788
 O
 src/ejercicios/Ejercicio10.java,5\a\5ac5c9287ec7e6eb5cc31c06d0d3b502171bc5fa
+O
+src/ejercicios/Ejercicio14.java,0\6\0632749bffe5ec833d251e3bcf769bf9d63ef935
+O
+src/ejercicios/Ejercicio12.java,2\b\2bfa89e384afe87e8bb06f7cdb8b27c26b55794c
+O
+src/ejercicios/Ejercicio16.java,a\7\a7294aa9fca90f70c6aa712a2348ac0783393417
+O
+src/ejercicios/Ejercicio15.java,0\a\0a939a0fc94503e04f756880bf080f8116834ad7
+O
+src/ejercicios/Ejercicio09.java,d\2\d271bb8f36af64ed8c5f5160a6b94fc495253e8c
+O
+src/ejercicios/Ejercicio22.java,5\d\5df15c2f1e7a2821d3bdcca87fe07bc6c39f9877
+O
+src/ejercicios/Ejercicio13.java,d\b\db09a55a8dc3cf07f8f74a6f28b60036d7f369fa
+O
+src/ejercicios/Ejercicio23.java,f\3\f3b9e86d439664ef8b9a2a53c512071d2108671e
+O
+src/ejercicios/Ejercicio18.java,1\3\13d9fddfc68d731053e6b94e80d253846e86a141
+O
+src/ejercicios/Ejercicio17.java,5\8\588f114d5a433954bcedf1a4898a521c4b301b16
+O
+src/ejercicios/Ejercicio20.java,6\5\6502eebc705f75d6c2b66d7e391d18845aa1ebf0
+O
+src/ejercicios/Ejercicio19.java,8\d\8d13919f788cc05f0c451aadb5572967abb07678
+O
+src/ejercicios/Ejercicio24.java,4\e\4ef60e3842cde234ad99f309d01cf4bb93f595cf
